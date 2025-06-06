@@ -1,0 +1,16 @@
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/dao/MovimentacaoDAO.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/dao/ProdutoDAO.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/dao/UsuarioDAO.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/factory/ConnectionFactory.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/model/Movimentacao.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/model/Produto.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/model/Usuario.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/util/GeradorSenhaAdmin.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/util/PasswordUtil.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/HistoricoView.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/LoginView.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/MainMenuView.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/MovimentacaoView.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/ProdutoView.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/RelatorioInventarioView.java
+/home/diego-amorim/NetBeansProjects/Projeto_Estoque/src/main/java/view/UsuarioAdminView.java
